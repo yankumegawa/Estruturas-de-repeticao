@@ -1,7 +1,14 @@
-#include <iostream>
+//Escreva um algoritmo que mostre os números de 1 até 10, um número por linha.
 
-int main (){     
-    for (int i = 1; i <=10; ++i){
-        std::cout << i << std::endl;
-    }
+#include <stdio.h>
+
+int main(){
+
+	int num;
+	
+	for(num=1;num<=10;num++){
+		printf("%d\n",num);
+	}
+
+
 }
