@@ -1,7 +1,13 @@
-#include <iostream>
+#include <stdio.h>
 
-int main (){
-    for (int i = 500; i >=100; --i){
-        std::cout << i << std::endl;
-    }
+int main(){
+
+	int num;
+	
+	for(num=10;num>=1;num--){
+		printf("%d\n",num);
+	}
+	
+	printf("fogo");
+
 }
