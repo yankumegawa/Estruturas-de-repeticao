@@ -1,19 +1,19 @@
-#include <iostream>
+#include <stdio.h>
 
-int main (){
-    int numero, soma;
-    soma=0;
-    
-    std::cout<< "Digite o numero: ";
-    std::cin >>numero; 
-    
-    for(int i=1; i<=numero; ++i){
-        if (i% 2 == 0){
-            std::cout<<i <<std::endl;
-            soma = soma + 1;
-        }
-    }
-    std::cout <<soma;
-    
-        
+int main(){
+
+	int num;
+	
+	printf("Digite o numero: ");
+	scanf("%d", &num);
+	int i;
+	for(i=1;i<=num;i++){
+		if(i%2==0){	
+		
+		printf("%d",i);
+		}
+	}
+	
+	
+
 }
