@@ -4,10 +4,10 @@ int main(){
 
 	int num;
 	
-	for(num=10;num>=1;num--){
+	for(num=10;num>=0;num--){
 		printf("%d\n",num);
 	}
 	
-	printf("fogo");
+	printf("Fogo!");
 
 }
