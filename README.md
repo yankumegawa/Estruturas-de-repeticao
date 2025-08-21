@@ -24,35 +24,35 @@ Este repositório contém uma lista de atividades práticas de algoritmos, envol
 15. Escreva um algoritmo que escreva os 10 primeiros números da sequência de Fibonacci. Resultado: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55.
 16. Escreva um algoritmo que forneça quantos números devem existir em sequência a partir do 1 para que a soma ultrapasse 100 o mínimo possível.
 17. Escreva um algoritmo que leia uma sequência de números reais positivos terminada em zero e determine a amplitude estatística (diferença entre o maior e o menor valor).
+```
+```
 18. Escreva um algoritmo que apresente o seguinte menu:
 
-
 # MENU PRINCIPAL
 
-\[1] Inserir
-\[2] Excluir
-\[3] Consultar
-\[4] Listar
-\[5] Sair
+[1] Inserir
+[2] Excluir
+[3] Consultar
+[4] Listar
+[5] Sair
 
-```
 - Mostrar na tela o nome da opção escolhida ou encerrar se a opção for 5.
-19. Escreva um algoritmo que apresente o seguinte menu:
+
 ```
+```
+19. Escreva um algoritmo que apresente o seguinte menu:
 
 # MENU PRINCIPAL
 
-\[1] Digitar um número par
-\[2] Digitar um número ímpar
-\[3] Sair
+[1] Digitar um número par
+[2] Digitar um número ímpar
+[3] Sair
+
+- Contabilizar os números pares e ímpares digitados e encerrar ao escolher a opção 3.
 
 ```
-- Contabilizar os números pares e ímpares digitados e encerrar ao escolher a opção 3.
 20. Escreva um algoritmo que verifique a validade de uma senha fornecida pelo usuário (senha válida: 2009). Repetir até a senha correta ser digitada e mostrar o número de tentativas.
-
----
 
 **Observação:**  
 Essas atividades são focadas em prática de **estruturas de repetição, condicionais, séries e manipulação de números**, ideais para aprendizado de lógica de programação.
-```
 ```
