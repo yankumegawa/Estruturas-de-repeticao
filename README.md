@@ -64,7 +64,8 @@ Resultado: 423.93.
 ```
 ---
 ```markdown
-13. Escreva um algoritmo que mostre o resultado dos primeiros 20 termos da série: 1/1 + 3/2 + 5/4 + ... 
+13. Escreva um algoritmo que mostre o resultado dos primeiros 20 termos 
+da série: 1/1 + 3/2 + 5/4 + ...  
 Resultado: 6.00.
 ```
 ---
@@ -121,10 +122,10 @@ e determine a amplitude estatística (diferença entre o maior e o menor valor).
 ```
 ---
 
-**Observação:**  
+### **Observação:**  
 
-Essas atividades são focadas em prática de: 
-**estruturas de repetição, condicionais, séries e manipulação de números** 
-ideais para aprendizado de lógica de programação.
+> Essas atividades são focadas em prática de: 
+> **estruturas de repetição, condicionais, séries e manipulação de números** 
+> ideais para aprendizado de lógica de programação.
 
 
