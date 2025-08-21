@@ -25,7 +25,7 @@ Este repositório contém uma lista de atividades práticas de algoritmos, envol
 16. Escreva um algoritmo que forneça quantos números devem existir em sequência a partir do 1 para que a soma ultrapasse 100 o mínimo possível.
 17. Escreva um algoritmo que leia uma sequência de números reais positivos terminada em zero e determine a amplitude estatística (diferença entre o maior e o menor valor).
 18. Escreva um algoritmo que apresente o seguinte menu:
-```
+
 
 # MENU PRINCIPAL
 
@@ -54,4 +54,5 @@ Este repositório contém uma lista de atividades práticas de algoritmos, envol
 
 **Observação:**  
 Essas atividades são focadas em prática de **estruturas de repetição, condicionais, séries e manipulação de números**, ideais para aprendizado de lógica de programação.
+```
 ```
