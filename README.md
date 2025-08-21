@@ -30,9 +30,9 @@ Este repositório contém uma lista de atividades práticas de algoritmos, envol
 
 # MENU PRINCIPAL
 
-\[1] Inserir
-\[2] Excluir
-\[3] Consultar
+[1] Inserir
+[2] Excluir
+[3] Consultar
 [4] Listar
 [5] Sair
 
@@ -49,7 +49,7 @@ Este repositório contém uma lista de atividades práticas de algoritmos, envol
 [3] Sair
 
 - Contabilizar os números pares e ímpares digitados e encerrar ao escolher a opção 3.
-
+```
 ```markdown
 20. Escreva um algoritmo que verifique a validade de uma senha fornecida pelo usuário (senha válida: 2009). Repetir até a senha correta ser digitada e mostrar o número de tentativas.
 
