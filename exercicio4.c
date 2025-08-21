@@ -1,10 +1,17 @@
-#include <iostream>
+#include <stdio.h>
 
-int main (){
-    int soma;
-    soma=0;
-    for (int i = 1; i <=100; ++i){
-        soma = soma + i;
-    }
-    std::cout <<soma;
+int main(){
+
+	int num, soma;
+	
+	soma=0;
+	
+	for(num=1;num<=100;num++){
+		soma=soma + num;	
+	
+	
+	}
+	
+	printf("%d",soma);
+
 }
