@@ -25,21 +25,21 @@ Este repositório contém uma lista de atividades práticas de algoritmos, envol
 16. Escreva um algoritmo que forneça quantos números devem existir em sequência a partir do 1 para que a soma ultrapasse 100 o mínimo possível.
 17. Escreva um algoritmo que leia uma sequência de números reais positivos terminada em zero e determine a amplitude estatística (diferença entre o maior e o menor valor).
 ```
-```
+```markdown
 18. Escreva um algoritmo que apresente o seguinte menu:
 
 # MENU PRINCIPAL
 
-[1] Inserir
-[2] Excluir
-[3] Consultar
+\[1] Inserir
+\[2] Excluir
+\[3] Consultar
 [4] Listar
 [5] Sair
 
 - Mostrar na tela o nome da opção escolhida ou encerrar se a opção for 5.
 
 ```
-```
+```markdown
 19. Escreva um algoritmo que apresente o seguinte menu:
 
 # MENU PRINCIPAL
@@ -50,7 +50,7 @@ Este repositório contém uma lista de atividades práticas de algoritmos, envol
 
 - Contabilizar os números pares e ímpares digitados e encerrar ao escolher a opção 3.
 
-```
+```markdown
 20. Escreva um algoritmo que verifique a validade de uma senha fornecida pelo usuário (senha válida: 2009). Repetir até a senha correta ser digitada e mostrar o número de tentativas.
 
 **Observação:**  
